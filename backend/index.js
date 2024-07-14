@@ -18,7 +18,8 @@ const adminRouter = require("./routes/admin.js")
 const manageProducts = require("./routes/product.js")
 
 //Connecting MongoDB
-connectMon("mongodb://localhost:27017/e-commerce");
+const mongoUri = "mongodb+srv://darsh07:ecommerce123@ethnusmernstack.mj15cvj.mongodb.net/?retryWrites=true&w=majority&appName=EthnusMERNStack";
+connectMon(mongoUri);
 
 //Middlewares
 app.use(express.json());

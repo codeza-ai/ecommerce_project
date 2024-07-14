@@ -38,3 +38,5 @@ Method: POST, URL: /login, Time: Sat Jul 13 2024 15:39:00 GMT+0530 (India Standa
 Method: POST, URL: /login, Time: Sat Jul 13 2024 15:40:47 GMT+0530 (India Standard Time)
 Method: POST, URL: /login, Time: Sat Jul 13 2024 15:42:52 GMT+0530 (India Standard Time)
 Method: POST, URL: /login, Time: Sat Jul 13 2024 15:43:56 GMT+0530 (India Standard Time)
+Method: POST, URL: /signup, Time: Sun Jul 14 2024 19:30:31 GMT+0530 (India Standard Time)
+Method: POST, URL: /login, Time: Sun Jul 14 2024 19:30:47 GMT+0530 (India Standard Time)
